@@ -1,0 +1,26 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "a clock application that changes color every second",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/beendra/npm-lab.git"
+  },
+  "keywords": [
+    "color-clock",
+    "npm-lab"
+  ],
+  "author": "alex ricardel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beendra/npm-lab/issues"
+  },
+  "homepage": "https://github.com/beendra/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
